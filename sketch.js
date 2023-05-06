@@ -388,7 +388,7 @@ function mousePressed() {
 
   if (d1 < 100) {
     location.reload();
-    location.href = "samesamebutdifferent-6.netlify.app";
+    location.href = "samesamebutdifferent-06.netlify.app";
   }
 
   if (d2 < 100) {
